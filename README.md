@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm KHirox! 👋</h1> 
+<h1 align="center">Hi, I'm KHirox! <img src="https://raw.githubusercontent.com/KHirox/assets/refs/heads/main/waving_hand.png" width="30"></h1>
 
 ---
 
@@ -26,7 +26,7 @@
   <a href="[https://www.youtube.com/@KHiroxx")>
     <img src="https://img.shields.io/badge/YouTube-KHiroxx-red?style=for-the-badge&logo=youtube">
   </a>
-  <a href="https://www.tiktok.com/@yourtiktok">
+3  <a href="https://www.tiktok.com/@yourtiktok">
     <img src="https://img.shields.io/badge/TikTok-@yourtiktok-black?style=for-the-badge&logo=tiktok">
   </a>
 </p>
